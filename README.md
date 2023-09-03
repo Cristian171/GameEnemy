@@ -1,7 +1,13 @@
 # GameEnemy
-Este proyecto es una implementación de perfiles basicos de IA en lenguaje C# y Unity. A continuación, se detallan los conceptos y elementos relacionados con la programación orientada a objetos (POO) que se aplican en el código.
+En este proyecto se implementan concentos basicos de poo en c# y unity implementados en una AI
 
-## Miembros
+# POO Repaso en [Unity](https://unity.com/es)
+- Abstracción
+- Polimorfismo
+- Herencia
+- Encapsulamiento
+
+# Miembros
 
 Cristian Andres Usuga Serna ID(467982)
-Jhonier Stiven Mosquera Blandon Id(369010)
+Jhonier Stiven Mosquera Blandon ID(369010)
